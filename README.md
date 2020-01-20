@@ -24,3 +24,9 @@ The EMG data consists of data acquired from ten different people performing thet
 
 
 3. FSR Data
+
+In order to evaluate the performance in real time applications , the data FSR sensorsare recorded from ten different people performing the ten different gestures.  A totalof 10 trials were performed for each gesture and eight FSR sensors are placed over thewrist band to read the data when the respective gestures performed. 
+
+Each subjectwas  instructed  to  perform  a  particular  gesture  for  150  sample  points  in  which  aparticular signal with respect to the sensor functionality are activated.  
+
+Based on themovement of the muscle, the operation of the sensor is carried to acquire the readingof data.  The overall process that is carried out with respect to muscle activity istermed  as  Force  Myography
