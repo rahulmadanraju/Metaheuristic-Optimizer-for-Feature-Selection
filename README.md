@@ -37,5 +37,5 @@ Based on themovement of the muscle, the operation of the sensor is carried to ac
 
 
 <br>
-<img src="https://github.com/rahulmadanraju/Metaheuristic-Optimizer-for-Feature-Selection/blob/master/7.Images/Ges2.png" />
+<img src="https://github.com/rahulmadanraju/Metaheuristic-Optimizer-for-Feature-Selection/blob/master/7.Images/G4.png" />
 <br>
