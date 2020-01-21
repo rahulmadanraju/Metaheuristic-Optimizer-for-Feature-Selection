@@ -41,3 +41,7 @@ Based on themovement of the muscle, the operation of the sensor is carried to ac
 <br>
 
 4. EMG + FSR Data
+
+Here in the fusion of data from FSR and EMG, both the sensor readings are combined based on the similar gestures performed. The fusion of data is carried through combinatorial features that are extracted from the sensor signals. 
+
+In EMG + FSR, the dataset is subjected to the category of large dataset with feature size more than 30
