@@ -52,7 +52,7 @@ Feature engineering is a method of obtaining essential information from the give
 
 ### 1. EMG
 
-    EMG as said is the type of sensor which is used the measure the muscle tendency when a particular gesture is carried. The data is a sensor reading which is recorded based on the time and frequency domain. Here are the list of features that were obtained based on the above mentioned domains.
+EMG as said is the type of sensor which is used the measure the muscle tendency when a particular gesture is carried. The data is a sensor reading which is recorded based on the time and frequency domain. Here are the list of features that were obtained based on the above mentioned domains.
 
     - Renyi Entropy
     - Spectral Entropy
