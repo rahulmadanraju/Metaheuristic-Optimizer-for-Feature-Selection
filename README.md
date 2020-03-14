@@ -83,5 +83,27 @@ EMG as said is the type of sensor which is used the measure the muscle tendency 
     - Temporal Moment 3
     - Temporal Moment 5
     - Autoregression Coeffecient
+    
+ The sample image of good and bad feature is shown below:
   
 ### 2. FSR
+
+  The data is recorded using FSR sensors by performing various gestures.  The following are the features that are extracted from the data of FSR sensors with respect to time domain.
+  
+    - Mean
+    - Mean Absolute Value
+    - Sum of Absolute Value
+    - Maximum
+    - Minimum
+    - Root Mean Square
+    - Simple Square Integral
+    - Slope Sign Change
+    - Variance
+    - Standard Deviation
+    - Mean Absolute Deviation
+    - Median Abolute Deviation
+    - Linear Fit
+    - Parabolic Fit
+    - Average Amplitude Change
+
+  The sample image of good and bad feature is shown below:
