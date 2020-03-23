@@ -109,6 +109,6 @@ EMG as said is the type of sensor which is used the measure the muscle tendency 
   The sample image of good and bad feature is shown below:
 
   <p align="center"> 
-  <img src="https://github.com/rahulmadanraju/Metaheuristic-Optimizer-for-Feature-Selection/blob/master/7.Images/1.png", width = 50% />
-  <img src="https://github.com/rahulmadanraju/Metaheuristic-Optimizer-for-Feature-Selection/blob/master/7.Images/2.png", width = 50% />
+  <img src="https://github.com/rahulmadanraju/Metaheuristic-Optimizer-for-Feature-Selection/blob/master/7.Images/1.png", width = 30% />
+  <img src="https://github.com/rahulmadanraju/Metaheuristic-Optimizer-for-Feature-Selection/blob/master/7.Images/2.png", width = 30% />
   <p>
