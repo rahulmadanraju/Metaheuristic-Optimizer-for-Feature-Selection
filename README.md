@@ -22,9 +22,9 @@ In current technology, electromyography for Biometrics are used in several resea
 
 The EMG data consists of data acquired from ten different people performing theten different gestures from each.  A total of 20 trials were performed for each gestureand  two  EMG  sensors  are  placed  within  the  tissue  when  the  respective  gesturesperformed.   Each  subject  was  instructed  to  perform  a  particular  gesture  for  1000sample points in which a particular signal with respect to the sensor functionalityare activated.  EMG signal having the property of both time and frequency, madesure that the features are extracted on these domains.
 
-<br>
-<img src="https://github.com/rahulmadanraju/Metaheuristic-Optimizer-for-Feature-Selection/blob/master/7.Images/Ges2.png" />
-<br>
+<p align = "center">
+<img src="https://github.com/rahulmadanraju/Metaheuristic-Optimizer-for-Feature-Selection/blob/master/7.Images/Ges2.png", width = 50% />
+<p>
 
 
 3. FSR Data
@@ -36,9 +36,9 @@ Each subjectwas  instructed  to  perform  a  particular  gesture  for  150  samp
 Based on themovement of the muscle, the operation of the sensor is carried to acquire the readingof data.  The overall process that is carried out with respect to muscle activity istermed  as  Force  Myography
 
 
-<br>
-<img src="https://github.com/rahulmadanraju/Metaheuristic-Optimizer-for-Feature-Selection/blob/master/7.Images/G4.png" />
-<br>
+<p align = "center">
+<img src="https://github.com/rahulmadanraju/Metaheuristic-Optimizer-for-Feature-Selection/blob/master/7.Images/G4.png", , width = 50% />
+<p>
 
 4. EMG + FSR Data
 
