@@ -107,3 +107,8 @@ EMG as said is the type of sensor which is used the measure the muscle tendency 
     - Average Amplitude Change
 
   The sample image of good and bad feature is shown below:
+
+  <br>
+  <img src="https://github.com/rahulmadanraju/Metaheuristic-Optimizer-for-Feature-Selection/blob/master/7.Images/1.png" />
+  <img src="https://github.com/rahulmadanraju/Metaheuristic-Optimizer-for-Feature-Selection/blob/master/7.Images/2.png" />
+  <br>
