@@ -48,8 +48,62 @@ In EMG + FSR, the dataset is subjected to the category of large dataset with fea
 
 ## Feature Engineering - Extraction of Features
 
-1. EMG
+Feature engineering is a method of obtaining essential information from the given data. This helps to get rid of he redundant information from the data and retain the essential ones. In this work we will be using the feature engineering method to pull the important information from the sensor data.
 
+### 1. EMG
 
+EMG as said is the type of sensor which is used the measure the muscle tendency when a particular gesture is carried. The data is a sensor reading which is recorded based on the time and frequency domain. Here are the list of features that were obtained based on the above mentioned domains.
 
-2. FSR
+    - Renyi Entropy
+    - Spectral Entropy
+    - Shannon Entropy
+    - Singular Value Decomposition
+    - Concentration Measure
+    - Coefficient of Variation
+    - Concentration Measure
+    - Mean Absolute Value
+    - Root Mean Square
+    - Variance
+    - Standard Deviation
+    - Kurtosis
+    - Skewness
+    - Number of Turns
+    - Zero Crossing
+    - Waveform Length
+    - Mean Frequency
+    - Median Frequency
+    - Signal to Noise Ratio
+    - Mean Absolute Deviation
+    - Median Absolute Deviation
+    - Simple Square Integral
+    - Average Amplitude Change
+    - Difference Absolute Standard Deviation Value
+    - V Order
+    - Myopulse Percentage Rate
+    - Temporal Moment 3
+    - Temporal Moment 5
+    - Autoregression Coeffecient
+    
+ The sample image of good and bad feature is shown below:
+  
+### 2. FSR
+
+  The data is recorded using FSR sensors by performing various gestures.  The following are the features that are extracted from the data of FSR sensors with respect to time domain.
+  
+    - Mean
+    - Mean Absolute Value
+    - Sum of Absolute Value
+    - Maximum
+    - Minimum
+    - Root Mean Square
+    - Simple Square Integral
+    - Slope Sign Change
+    - Variance
+    - Standard Deviation
+    - Mean Absolute Deviation
+    - Median Abolute Deviation
+    - Linear Fit
+    - Parabolic Fit
+    - Average Amplitude Change
+
+  The sample image of good and bad feature is shown below:
