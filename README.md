@@ -113,4 +113,4 @@ EMG as said is the type of sensor which is used the measure the muscle tendency 
   <img src="https://github.com/rahulmadanraju/Metaheuristic-Optimizer-for-Feature-Selection/blob/master/7.Images/2.png", width = 40% />
   <p>
 
-From the image we can differentiate the bad feature from the good feature.
+From the image we can differentiate the bad feature from the good feature. The relative points of the feature Parabolic-fit B for all sensors lie on above the there. Therefore, it becomes difficult to differentiate the contribution of values from the sensors. 
