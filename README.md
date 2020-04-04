@@ -116,3 +116,6 @@ EMG as said is the type of sensor which is used the measure the muscle tendency 
 From the image we can differentiate the bad feature from the good feature. The relative points of the feature Parabolic-fit B for all sensors lie on above the there. Therefore, it becomes difficult to differentiate the contribution of values from the sensors. 
 
 However, in the case of the feature Minimum, we see the respective contribution from each sensor and also the values less oerlap for each sensors. This in turn is making the feature as the much needed one.
+
+
+
