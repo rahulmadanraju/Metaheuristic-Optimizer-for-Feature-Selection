@@ -86,7 +86,7 @@ EMG as said is the type of sensor which is used the measure the muscle tendency 
     
  The sample image of good and bad feature is shown below:
   
-### 2. FSR
+### 2. FMG
 
   The data is recorded using FSR sensors by performing various gestures.  The following are the features that are extracted from the data of FSR sensors with respect to time domain.
   
