@@ -27,7 +27,7 @@ The EMG data consists of data acquired from ten different people performing thet
 <p>
 
 
-3. FSR Data
+3. FMG Data
 
 In order to evaluate the performance in real time applications , the data FSR sensorsare recorded from ten different people performing the ten different gestures.  A totalof 10 trials were performed for each gesture and eight FSR sensors are placed over thewrist band to read the data when the respective gestures performed. 
 
@@ -40,7 +40,7 @@ Based on themovement of the muscle, the operation of the sensor is carried to ac
 <img src="https://github.com/rahulmadanraju/Metaheuristic-Optimizer-for-Feature-Selection/blob/master/7.Images/G4.png", , width = 50% />
 <p>
 
-4. EMG + FSR Data
+4. EMG + FMG Data
 
 Here in the fusion of data from FSR and EMG, both the sensor readings are combined based on the similar gestures performed. The fusion of data is carried through combinatorial features that are extracted from the sensor signals. 
 
